@@ -2,6 +2,8 @@
 
 Coverage in a Click is a SaaS marketplace that makes it easy for customers to find and purchase automotive vehicle warranty products. With our easy-to-use platform, you can compare prices from multiple providers, easily compare coverage options, and purchase a warranty with just a few clicks.
 
+![Screenshot of Coverage in a Click's home page where fundamental components such as the website menu, VIN decoder search bar, and a website introduction video are shown](https://22707348.fs1.hubspotusercontent-na1.net/hubfs/22707348/TEST/Home%20Page.png)
+
 Here are just a few of the benefits of using Coverage in a Click:
 
 Convenience: You can shop for and purchase a warranty from anywhere, at any time.
