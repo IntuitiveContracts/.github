@@ -1,6 +1,14 @@
 # Coverage in a Click
 
-Coverage in a Click is an application designed to provide a seamless and convenient experience for customers looking to purchase battery warranties for their vehicles. With easy VIN search functionality, multiple payment options, and efficient checkout processes, our application aims to ensure customer satisfaction and offer a reliable solution to avoid recurring battery replacement costs. Additionally, we provide an opportunity for individuals to become ambassadors and earn commissions by promoting our unique automotive product.
+Coverage in a Click is a SaaS marketplace that makes it easy for customers to find and purchase automotive vehicle warranty products. With our easy-to-use platform, you can compare prices from multiple providers, easily compare coverage options, and purchase a warranty with just a few clicks.
+
+Here are just a few of the benefits of using Coverage in a Click:
+
+Convenience: You can shop for and purchase a warranty from anywhere, at any time.
+Competitive pricing: We compare prices from multiple providers to ensure you're getting the best deal.
+Easy comparison: We make it easy to compare coverage options so you can choose the right warranty for your needs.
+Fast and easy checkout: You can purchase a warranty with just a few clicks.
+
 -----------------
 
 ## Table of Contents
